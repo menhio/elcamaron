@@ -92,8 +92,8 @@ export default {
   layout: 'empty',
   data() {
     return {
-      username: 'admin',
-      password: 'aQ4#lJQV#M',
+      username: '',
+      password: '',
       base_url: 'https://librodepesca.com/elcamaron/',
     }
   },
